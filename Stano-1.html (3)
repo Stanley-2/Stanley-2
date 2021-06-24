@@ -1,0 +1,224 @@
+<html>
+<head>
+<h1 id="myHeader" style="display;inline;"> 
+<img style="display: inline;"
+width="100" height="100"
+src="WhatsApp Image 2021-06-23 at 9.41.07 PM.jpeg" alt="logo" class="circular--spuare"  /> <font size="+3">Stanely Kyalo.</font>
+<marquee width="60%" direction="right" height="100px" behavior="slide" scrollamount="20"> Welcome to my portfolio. </marquee>
+</h1>
+</head>
+<style>
+.navbar {
+  overflow: hidden;
+  background-color:0FA75E;
+  z-index:-1;
+  
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  position:sticky;
+    z-index:300;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: pink;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+<div class="navbar">
+  <a href="wednesday.html">CURRICULUM VITAE</a>
+  
+  <div class="dropdown">
+    <button class="dropbtn">ABOUT ME
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+
+      <a href="AboutME.html">ABOUT ME</a>
+      
+        </div>
+		 </div>
+     <form class="form-inline-table my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="Go" placeholder="Search..." aria-label="Go">
+        <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
+      </form>
+</div>
+<body style="background-color:powderblue;">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="wednesday.css">
+<body>
+<div id="header">
+<p id="name">CURRICULUM VITAE(CV)</p>
+		 <a href="mailto:kavuusyaalex@gmail.com" target="_blank"><p id="email">muokistanley82@gmail.com</p></a>
+     </div>
+     <div class="left">
+     </div>
+     <div class="right">
+            
+			<h3><a href="Conduct.html">PERSONAL INFOMATION</a></h3>
+            <p>
+            <ul>
+                <li>TEL:0796880214</li>
+				<li>EMAIL: muokistanley82@gmail.com</li>
+				<li>ID:38912711</li>
+				<li>DATE OF BIRTH:12/2/2000</li>
+				<li>MARITAL STATUS:single</li>
+				<li>NATIONALITY:Kenyan</li>
+				<li>RELIGION:christian</li>
+				<li>LANGUAGE:Engilish/Kiswahili</li>
+				<li>ADRESS:P.O.BOX 332-Maseno</li>
+			</ul>
+            </p>
+            
+			<h3><a href="Conduct.html">PERSONAL STATEMENT</a></h3>
+            <p>
+            <ul>
+                <li>I’m committed to exceptional customer services and driven challenges, with the ability to solve clients needs relate with them well.
+                More so, am a goal-oriented guys with personal self-drive in my activities.
+                I’m also well known in simple cyber services and simple computer systems managements.
+                Contribute ideas to the team on how customers can be delighted.
+				</li>
+			</ul>
+            </p>
+            <h3><a href="Conduct.html">Educational Qualifications</a></h3>
+			
+            <table>
+                <tr id="heading">
+                    <td>YEAR</td>
+                    <td>INSTITUTION</td>
+                    <td>FALCUTY</td>
+                    <td>GRADE</td>
+                </tr>
+                <tr>
+                    <td>2019 - 2023</td>
+                    <td>Maseno University</td>
+                    <td>BSc political science</td>
+                    <td>pending</td>
+                </tr>
+                <tr>
+                    <td>2016 - 2019</td>
+                    <td> Lenana school</td>
+                    <td>K.C.S.E</td>
+                    <td>B-(plain)</td>
+                </tr>
+                <tr>
+                    <td>2006 - 2013</td>
+                    <td>real juniour school</td>
+                    <td>K.C.P.E</td>
+                    <td>345 marks</td>
+                </tr>                
+            </table>
+            
+			<h3><a href="Conduct.html">SKILLS</a></h3>
+            <p>
+            <ul>
+                <li>Excellent knowledge of a variety of programming languages including pascal, java and JavaScript. Strong troubleshooting skills in spreadsheet and MS excel</li>
+            </ul>
+            
+			<h3><a href="Conduct.html">HOBBIES</a></h3>
+            <p>
+            <ul>
+                <li>
+                Excellent knowledge of a variety of programming languages including pascal, java and JavaScript. Strong troubleshooting skills in spreadsheet and MS excel
+			    </li>
+			</ul>
+            </p>
+            <h3>REFFENCES</h3>
+			<h3><a href="Conduct.html">REFFERENCES</a></h3>
+            <p>
+            <ul>
+                <li>Mr kiluta</li>
+				<li>0759663931</li>
+				<li>muokistanley82@gmail.com</li>
+            </ul>
+            </p>
+</body>
+<style>
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+</style>
+
+<div class="footer">
+		Posted by:<a href="Cribz:stano@sc.ke">Stanely Kyalo</a>.<br> 
+		<p>Contact information:</p> 
+		<a href="mailto: muokistanley82@gmail.com">muokistanley82@gmail.com</a>
+			Visit us at:Crib10.com
+		</p>
+</div>
+ 
+
+</html>
+tml>
+ href="Cribz:stano@sc.ke">Stanely Kyalo</a>.<br> 
+		<p>Contact information:</p> 
+		<a href="mailto: muokistanley82@gmail.com">muokistanley82@gmail.com</a>
+			Visit us at:Crib10.com
+		</p>
+</div>
+ 
+
+</html>
+l>
